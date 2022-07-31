@@ -1,0 +1,47 @@
+body{
+    background: rgb(230, 208, 179);
+}
+.header h1{
+    color:rgb(143, 84, 16)
+}
+span{
+    color:rgb(192, 38, 11)
+}
+
+.img{
+    float: left;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.section {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 750px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 750px;    
+}
+.material {
+    background-color: brown;
+    color:#fff;
+    border-radius: 20px;
+    margin-right: 250px;    
+}
+.how-to-do{
+    background-color: brown;
+    color:#fff;
+    border-radius: 20px;
+    margin-right: 330px; 
+}
+
+h2{
+    text-align: right
+}
